@@ -114,6 +114,8 @@ dmypy.json
 # Data files
 *.csv
 *.json
+data.zip
+data/
 
 # Model files
 *.h5
